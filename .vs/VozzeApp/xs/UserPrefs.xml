@@ -9,9 +9,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VozzeApp" expanded="True">
-            <Node name="VozzeApp" expanded="True">
-              <Node name="DefinicaoPage.xaml" expanded="True" selected="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+            <Node name="VozzeApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

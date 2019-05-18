@@ -45,3 +45,4 @@
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/VozzeApp.dll
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/VozzeApp.pdb
+/Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/VozzeApp.csprojAssemblyReference.cache
