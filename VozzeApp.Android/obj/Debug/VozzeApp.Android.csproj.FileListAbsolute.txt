@@ -413,6 +413,10 @@
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/mn_fome.png
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/mn_raiva.png
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/mn_sono.png
+/Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/fb_feliz_icon.png
+/Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/fn_feliz_icon.png
+/Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/mb_feliz_icon.png
+/Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/res/drawable/mn_feliz_icon.png
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/R.cs.flag
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/R.txt
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp.Android/obj/Debug/uploadflags.txt

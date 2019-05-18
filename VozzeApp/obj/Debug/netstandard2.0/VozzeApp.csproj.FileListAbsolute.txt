@@ -33,7 +33,6 @@
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/bin/Debug/netstandard2.0/VozzeApp.deps.json
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/bin/Debug/netstandard2.0/VozzeApp.dll
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/bin/Debug/netstandard2.0/VozzeApp.pdb
-/Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/VozzeApp.csprojAssemblyReference.cache
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/DefinicaoPage.xaml.g.cs
 /Users/j7/Documents/AppDeveloper/VozzeApp-master/VozzeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
